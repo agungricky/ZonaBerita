@@ -30,7 +30,7 @@
 	<!-- Header -->
 	@include('main.header')
     <!-- Header desktop -->
-
+               
 	<!-- Headline -->
 	<div class="container">
 		<div class="bg0 flex-wr-sb-c p-rl-20 p-tb-8">
